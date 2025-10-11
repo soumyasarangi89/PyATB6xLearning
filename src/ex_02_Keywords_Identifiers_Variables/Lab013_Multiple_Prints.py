@@ -1,0 +1,2 @@
+print("Amitabh", "Shahrukh", "Aamir")
+
