@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="14th Oct 2025 3" />
+    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="14th Oct 2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab043_if_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab043_if_condition_optimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_Elseif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_Nested_If_ElseIf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab045_If_Else_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab046_if_else_Elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab047_Grade_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,71 +55,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Lab001_Python_Hello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002_comment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_print.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005_Variable_Part01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006_Identifier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007_Variable_Names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Dynamically_Typed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009_Identifier_Rule.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010_Maths.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011_IQ_BODMAS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012_Multiple_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013_Multiple_Prints.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014_Math_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab019_Data_Type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab020_Built-In_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab021_UserInput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022_User_Input_Sum_Of_Two_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab023_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab024_String_Conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab025_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab026_Escape_Sequence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab027_String_Double_Single_Diff.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab029_Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab030_Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_Arithmatic_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_Arthmatic_Output.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_Unary_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab032_Comparison_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab033_Logical_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_Operators_P2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab035_Operators_P4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab036_Operators_Logical.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab038_Operators_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab039_Operators_P8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab040_Operators_P9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab040_Ternary_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab040_User_Input_Ternary_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab041_Membership_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab042_Identity_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab042_Math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_004.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PROJECT_TREADSTONE/PyATB6xLearning&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Lab001_Python_Hello.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab002_comment.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab003_print.executor": "Run",
+    "Python.Lab004_Keyword.executor": "Run",
+    "Python.Lab005_Variable_Part01.executor": "Run",
+    "Python.Lab006_Identifier.executor": "Run",
+    "Python.Lab007_Variable_Names.executor": "Run",
+    "Python.Lab008_Dynamically_Typed.executor": "Run",
+    "Python.Lab009_Identifier_Rule.executor": "Run",
+    "Python.Lab010_Maths.executor": "Run",
+    "Python.Lab011_IQ_BODMAS.executor": "Run",
+    "Python.Lab012_Multiple_Variables.executor": "Run",
+    "Python.Lab013_Multiple_Prints.executor": "Run",
+    "Python.Lab014_Math_Functions.executor": "Run",
+    "Python.Lab016_Literals.executor": "Run",
+    "Python.Lab019_Data_Type.executor": "Run",
+    "Python.Lab020_Built-In_Functions.executor": "Run",
+    "Python.Lab021_UserInput.executor": "Run",
+    "Python.Lab022_User_Input_Sum_Of_Two_Numbers.executor": "Run",
+    "Python.Lab023_Strings.executor": "Run",
+    "Python.Lab024_String_Conversion.executor": "Run",
+    "Python.Lab025_strings.executor": "Run",
+    "Python.Lab026_Escape_Sequence.executor": "Run",
+    "Python.Lab027_String_Double_Single_Diff.executor": "Run",
+    "Python.Lab029_Task1.executor": "Run",
+    "Python.Lab030_Task2.executor": "Run",
+    "Python.Lab031_Arithmatic_Operators.executor": "Run",
+    "Python.Lab031_Arthmatic_Output.executor": "Run",
+    "Python.Lab031_Unary_Operator.executor": "Run",
+    "Python.Lab032_Comparison_Operator.executor": "Run",
+    "Python.Lab033_Logical_Operators.executor": "Run",
+    "Python.Lab034_Operators_P2.executor": "Run",
+    "Python.Lab035_Operators_P4.executor": "Run",
+    "Python.Lab036_Operators_Logical.executor": "Run",
+    "Python.Lab038_Operators_Example.executor": "Run",
+    "Python.Lab039_Operators_P8.executor": "Run",
+    "Python.Lab040_Operators_P9.executor": "Run",
+    "Python.Lab040_Ternary_Operator.executor": "Run",
+    "Python.Lab040_User_Input_Ternary_Operator.executor": "Run",
+    "Python.Lab041_Membership_Operator.executor": "Run",
+    "Python.Lab042_Identity_Operator.executor": "Run",
+    "Python.Lab042_Math.executor": "Run",
+    "Python.Lab043_if_condition.executor": "Run",
+    "Python.Lab043_if_condition_optimized.executor": "Run",
+    "Python.Lab044_Elseif.executor": "Run",
+    "Python.Lab044_Nested_If_ElseIf.executor": "Run",
+    "Python.Lab045_If_Else_Condition.executor": "Run",
+    "Python.Lab046_if_else_Elif.executor": "Run",
+    "Python.Lab047_Grade_Calculator.executor": "Run",
+    "Python.Task_001.executor": "Run",
+    "Python.Task_002.executor": "Run",
+    "Python.Task_003.executor": "Run",
+    "Python.Task_004.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/PROJECT_TREADSTONE/PyATB6xLearning",
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_004">
+  <component name="RunManager" selected="Python.Lab047_Grade_Calculator">
     <configuration name="Lab002_Comment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -202,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab040_User_Input_Ternary_Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab044_Elseif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,11 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_04_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_Operators/Lab040_User_Input_Ternary_Operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_Elseif.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab042_Math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab044_Nested_If_ElseIf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,11 +249,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_04_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_Operators/Lab042_Math.py" />
+      <option name="SCRIPT_NAME" value="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_05_Conditions_Loops\Lab044_Nested_If_ElseIf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab045_If_Else_Condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task_002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab045_If_Else_Condition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab046_if_else_Elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task_003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab046_if_else_Elif.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab047_Grade_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,11 +315,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task_004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab047_Grade_Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_004" />
-        <item itemvalue="Python.Lab042_Math" />
-        <item itemvalue="Python.Task_003" />
-        <item itemvalue="Python.Task_002" />
-        <item itemvalue="Python.Lab040_User_Input_Ternary_Operator" />
+        <item itemvalue="Python.Lab047_Grade_Calculator" />
+        <item itemvalue="Python.Lab046_if_else_Elif" />
+        <item itemvalue="Python.Lab045_If_Else_Condition" />
+        <item itemvalue="Python.Lab044_Elseif" />
+        <item itemvalue="Python.Lab044_Nested_If_ElseIf" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +409,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760464078673</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="14th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1760464158031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760464158031</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,10 +434,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="9th Oct" />
     <MESSAGE value="11th Oct 2025" />
-    <MESSAGE value="14th Oct 2025" />
     <MESSAGE value="14th Oct 2025 2" />
     <MESSAGE value="14th Oct 2025 Task" />
     <MESSAGE value="14th Oct 2025 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="14th Oct 2025 3" />
+    <MESSAGE value="14th Oct 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="14th Oct 2025" />
   </component>
 </project>
