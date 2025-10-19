@@ -5,14 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="14th Oct 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab043_if_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab043_if_condition_optimized.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_Elseif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_Nested_If_ElseIf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab045_If_Else_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab046_if_else_Elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab047_Grade_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_005_API_Response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_006_Expected_Actual_Op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_007_API_Load_Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_008_Username_Password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_009_Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_010_Retry_Connection_Timeout.pt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/Lab001_Switch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/Lab002_Match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab048_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab049_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab050_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab051_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab052_IQ2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab_For_Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab053_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab_While_vs_For.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Task_001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Task_002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Task_003_Area_of_Circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Task_004_Area_of_Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab043_if_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions/Lab043_if_condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab043_if_condition_optimized.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions/Lab043_if_condition_optimized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_Elseif.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions/Lab044_Elseif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_Nested_If_ElseIf.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions/Lab044_Nested_If_ElseIf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab045_If_Else_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions/Lab045_If_Else_Condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab046_if_else_Elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions/Lab046_if_else_Elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab047_Grade_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions/Lab047_Grade_Calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +81,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Lab001_Python_Hello.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.Lab002_Match.executor": "Run",
     "Python.Lab002_comment.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab003_print.executor": "Run",
@@ -109,24 +131,46 @@
     "Python.Lab045_If_Else_Condition.executor": "Run",
     "Python.Lab046_if_else_Elif.executor": "Run",
     "Python.Lab047_Grade_Calculator.executor": "Run",
+    "Python.Lab048_Loop.executor": "Run",
+    "Python.Lab049_For_Loop.executor": "Run",
+    "Python.Lab050_Loops.executor": "Run",
+    "Python.Lab051_IQ.executor": "Run",
+    "Python.Lab052_IQ2.executor": "Run",
+    "Python.Lab053_While.executor": "Run",
+    "Python.Lab_For_Reverse.executor": "Run",
+    "Python.Lab_While.executor": "Run",
+    "Python.Lab_While_vs_For.executor": "Run",
     "Python.Task_001.executor": "Run",
     "Python.Task_002.executor": "Run",
     "Python.Task_003.executor": "Run",
     "Python.Task_004.executor": "Run",
+    "Python.Task_005.executor": "Run",
+    "Python.Task_006.executor": "Run",
+    "Python.Task_007.executor": "Run",
+    "Python.Task_008.executor": "Run",
+    "Python.Task_009_Factorial.executor": "Run",
+    "Python.Task_010_Retry_Connection_Timeout.pt.executor": "Run",
+    "Python.try.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/PROJECT_TREADSTONE/PyATB6xLearning",
+    "last_opened_file_path": "D:/PROJECT_TREADSTONE/PyATB6xLearning/src/ex_06_Switch_Match",
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_06_Switch_Match" />
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\Tasks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_07_Loops\For" />
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab047_Grade_Calculator">
+  <component name="RunManager" selected="Python.Task_010_Retry_Connection_Timeout.pt">
     <configuration name="Lab002_Comment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -218,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab044_Elseif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/While" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_Elseif.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/While/Lab_While.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab044_Nested_If_ElseIf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_While_vs_For" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/While" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_05_Conditions_Loops\Lab044_Nested_If_ElseIf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/While/Lab_While_vs_For.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab045_If_Else_Condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_009_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,11 +315,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab045_If_Else_Condition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/Task_009_Factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab046_if_else_Elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_010_Retry_Connection_Timeout.pt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,11 +337,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab046_if_else_Elif.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/Task_010_Retry_Connection_Timeout.pt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab047_Grade_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,11 +359,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab047_Grade_Calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,11 +374,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab047_Grade_Calculator" />
-        <item itemvalue="Python.Lab046_if_else_Elif" />
-        <item itemvalue="Python.Lab045_If_Else_Condition" />
-        <item itemvalue="Python.Lab044_Elseif" />
-        <item itemvalue="Python.Lab044_Nested_If_ElseIf" />
+        <item itemvalue="Python.Task_010_Retry_Connection_Timeout.pt" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.Task_009_Factorial" />
+        <item itemvalue="Python.Lab_While_vs_For" />
+        <item itemvalue="Python.Lab_While" />
       </list>
     </recent_temporary>
   </component>
