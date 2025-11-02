@@ -1,8 +1,8 @@
 for i in range(0, 10):  # 0 to 9, times -> 10
-    print(i)
+    # print(i)
     if i == 5:
         break
-    # print(i)
+    print(i)    # Would not print 5 as the break would occur before this line
 
 
 

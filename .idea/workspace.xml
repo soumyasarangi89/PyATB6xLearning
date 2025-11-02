@@ -4,23 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="18th Oct 2025">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Task_011_FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab054_For_While_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_For_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab057_Pass_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab058_IQ_Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab059_Odd_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue/LabPass_Vs_Continue_059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB6xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB6xLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="28th Oct 2025">
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_012_EvenNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_013_Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_014_skip_DivBy3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_015_Square_of_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_016_Type_of_Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab060_Built_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab061_Example_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab062_Example_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Example_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Type3_Function_Return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab065_Function_Default_Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab066_Functions_Return_Multiple_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab067_Functions_Keyword_Arg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_User_Ip_Pass_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Function_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Functions_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinite_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab073_Real_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ03_REAL_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab075_Local_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab077_Local_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab078_Inner_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Task_007_API_Load_Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Task_007_API_Load_Time.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tasks/Task_009_Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Task_009_Factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Task_010_Retry_Connection_Timeout.pt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Task_010_Retry_Connection_Timeout.pt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_For_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_For_break.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -46,10 +63,11 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/soumyasarangi89/PyATB6xLearning.git&quot;,
-    &quot;accountId&quot;: &quot;a6f1538e-3615-4e59-b7c7-7f72835912f9&quot;
+    &quot;accountId&quot;: &quot;ba7a3eb2-b097-4da3-b362-31f9e97f86d4&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Tasks/Task_016_Type_of_Triangle.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/Lab015_IQ.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -124,8 +142,28 @@
     "Python.Lab051_IQ.executor": "Run",
     "Python.Lab052_IQ2.executor": "Run",
     "Python.Lab053_While.executor": "Run",
+    "Python.Lab054_For_While_IQ.executor": "Run",
+    "Python.Lab055_For_break.executor": "Run",
+    "Python.Lab057_Pass_Break.executor": "Run",
+    "Python.Lab061_Example_Functions.executor": "Run",
+    "Python.Lab063_Example_Functions.executor": "Run",
+    "Python.Lab064_Type3_Function_Return.executor": "Run",
+    "Python.Lab065_Function_Default_Parameter.executor": "Run",
+    "Python.Lab066_Functions_Return_Multiple_Values.executor": "Run",
+    "Python.Lab067_Functions_Keyword_Arg.executor": "Run",
+    "Python.Lab069_Function_Types.executor": "Run",
+    "Python.Lab070_Functions_IQ.executor": "Run",
+    "Python.Lab072_Infinite_Args.executor": "Run",
+    "Python.Lab073_Real_Args.executor": "Run",
+    "Python.Lab075_Local_Variable.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab078_Inner_Function.executor": "Run",
     "Python.LabPass_Vs_Continue_059.executor": "Run",
+    "Python.LabQ01.executor": "Run",
+    "Python.LabQ02.executor": "Run",
+    "Python.LabQ03_REAL_Example.executor": "Run",
     "Python.Lab_For_Reverse.executor": "Run",
+    "Python.Lab_IQ.executor": "Run",
     "Python.Lab_While.executor": "Run",
     "Python.Lab_While_vs_For.executor": "Run",
     "Python.Task_001.executor": "Run",
@@ -135,32 +173,43 @@
     "Python.Task_005.executor": "Run",
     "Python.Task_006.executor": "Run",
     "Python.Task_007.executor": "Run",
+    "Python.Task_007_API_Load_Time.executor": "Run",
     "Python.Task_008.executor": "Run",
-    "Python.Task_009_Factorial.executor": "Run",
+    "Python.Task_009_Factorial.executor": "Debug",
     "Python.Task_010_Retry_Connection_Timeout.pt.executor": "Run",
     "Python.Task_011_FizzBuzz.executor": "Run",
+    "Python.Task_012_EvenNumbers.executor": "Run",
+    "Python.Task_013_Reverse.executor": "Run",
+    "Python.Task_014_skip_DivBy3.executor": "Run",
+    "Python.Task_015_Square_of_Number.executor": "Run",
+    "Python.Task_016_Type_of_Triangle.executor": "Run",
+    "Python.p_Pass_Function.executor": "Run",
     "Python.try.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/PROJECT_TREADSTONE/PyATB6xLearning",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "D:/PROJECT_TREADSTONE/PyATB6xLearning/src/ex_09_Functions_Scopes",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_09_Functions_Scopes" />
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_08_Functions" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_06_Switch_Match" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\Tasks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src" />
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_08_Functions" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_07_Loops\For" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_011_FizzBuzz">
+  <component name="RunManager" selected="Python.Task_007_API_Load_Time">
     <configuration name="Lab002_Comment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -249,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LabPass_Vs_Continue_059" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab075_Local_Variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,11 +307,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue/LabPass_Vs_Continue_059.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab075_Local_Variable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +320,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_009_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab076.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab078_Inner_Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab078_Inner_Function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_007_API_Load_Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,7 +377,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/Task_009_Factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/Task_007_API_Load_Time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,57 +408,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_011_FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/Task_011_FizzBuzz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/try.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_011_FizzBuzz" />
-        <item itemvalue="Python.LabPass_Vs_Continue_059" />
-        <item itemvalue="Python.Task_009_Factorial" />
-        <item itemvalue="Python.try" />
+        <item itemvalue="Python.Task_007_API_Load_Time" />
         <item itemvalue="Python.Task_010_Retry_Connection_Timeout.pt" />
+        <item itemvalue="Python.Lab078_Inner_Function" />
+        <item itemvalue="Python.Lab076" />
+        <item itemvalue="Python.Lab075_Local_Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760892410017</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="28th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1761791416711</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761791416711</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,17 +535,18 @@
     <MESSAGE value="14th Oct 2025 3" />
     <MESSAGE value="14th Oct 2025" />
     <MESSAGE value="18th Oct 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="18th Oct 2025" />
+    <MESSAGE value="28th Oct 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="28th Oct 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tasks/Task_009_Factorial.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>

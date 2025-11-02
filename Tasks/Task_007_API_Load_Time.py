@@ -14,4 +14,4 @@ else:
     if load_time <= 3:
         print(f"✅ Page loaded successfully in {load_time} seconds")
     else:
-        print(f"⚠️ Page load too slow: {load_time} seconds")
+        print(f"⚠️ Page Timeout")

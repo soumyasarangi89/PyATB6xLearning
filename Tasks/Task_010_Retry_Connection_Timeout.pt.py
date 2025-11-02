@@ -1,6 +1,6 @@
 api_response = int(input("Enter Response Code : "))
 
-retry = 0
+retry = 1
 success = False
 
 if api_response == 200:
