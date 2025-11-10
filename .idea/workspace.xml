@@ -4,37 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="1st Nov 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab079_Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab080_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab081_Without_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab082_Real_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab083_Decor_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab084_IQ_LeapYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab_Time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_Type_Conversions/Lab087_Type_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_Type_Conversions/Lab088_IQ_Triangle_Classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_Type_Conversions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Functions/Lab090_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Functions/Lab091_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Functions/Lab092_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Functions/Lab093_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Functions/Lab094_User_Input_Even_Odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Functions/Lab095_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Functions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Lists/Lab096_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Lists/Lab097_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Lists/Lab098_POP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_Lists/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuples/Lab099_Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuples/Lab100_Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuples/Lab101_Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuples/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Sets/Lab102_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Sets/__init__.py" afterDir="false" />
+    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="6th Nov 2025">
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_017_Triangle_Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Sets/Lab103_SET_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Sets/Lab104_SET_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Sets/Lab105_Extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Sets/Lab105_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab109_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab110_Dict_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Modules_PIP/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks/Task_007_API_Load_Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Task_007_API_Load_Time.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +155,8 @@
     "Python.Lab083_Decor_2.executor": "Run",
     "Python.Lab084_IQ_LeapYear.executor": "Run",
     "Python.Lab087_Type_Conversion.executor": "Run",
+    "Python.Lab104_SET_P3.executor": "Run",
+    "Python.Lab105_IQ.executor": "Run",
     "Python.LabPass_Vs_Continue_059.executor": "Run",
     "Python.LabQ01.executor": "Run",
     "Python.LabQ02.executor": "Run",
@@ -188,6 +182,7 @@
     "Python.Task_014_skip_DivBy3.executor": "Run",
     "Python.Task_015_Square_of_Number.executor": "Run",
     "Python.Task_016_Type_of_Triangle.executor": "Run",
+    "Python.Task_017_Triangle_Pattern.executor": "Run",
     "Python.p_Pass_Function.executor": "Run",
     "Python.try.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -195,17 +190,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/PROJECT_TREADSTONE/PyATB6xLearning/src",
+    "last_opened_file_path": "D:/PROJECT_TREADSTONE/PyATB6xLearning/src/ex_17_Dict",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_17_Dict" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_09_Functions_Scopes" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_08_Functions" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_06_Switch_Match" />
-      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\Tasks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src" />
@@ -215,7 +210,7 @@
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab087_Type_Conversion">
+  <component name="RunManager" selected="Python.Task_017_Triangle_Pattern">
     <configuration name="Lab002_Comment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -304,72 +299,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab081_Without_Decor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10_Decorators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10_Decorators/Lab081_Without_Decor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab082_Real_Decor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10_Decorators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10_Decorators/Lab082_Real_Decor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab083_Decor_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10_Decorators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10_Decorators/Lab083_Decor_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Lab084_IQ_LeapYear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -414,13 +343,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab104_SET_P3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_15_Sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_15_Sets/Lab104_SET_P3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab105_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_15_Sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_15_Sets/Lab105_IQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_017_Triangle_Pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/Task_017_Triangle_Pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task_017_Triangle_Pattern" />
+        <item itemvalue="Python.Lab105_IQ" />
+        <item itemvalue="Python.Lab104_SET_P3" />
         <item itemvalue="Python.Lab087_Type_Conversion" />
         <item itemvalue="Python.Lab084_IQ_LeapYear" />
-        <item itemvalue="Python.Lab083_Decor_2" />
-        <item itemvalue="Python.Lab082_Real_Decor" />
-        <item itemvalue="Python.Lab081_Without_Decor" />
       </list>
     </recent_temporary>
   </component>
@@ -535,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762101584460</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="6th Nov 2025">
+      <option name="closed" value="true" />
+      <created>1762565074491</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762565074491</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -559,7 +562,8 @@
     <MESSAGE value="18th Oct 2025" />
     <MESSAGE value="28th Oct 2025" />
     <MESSAGE value="1st Nov 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st Nov 2025" />
+    <MESSAGE value="6th Nov 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th Nov 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
