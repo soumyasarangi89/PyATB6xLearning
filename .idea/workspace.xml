@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="11th Nov 2025">
-      <change afterPath="$PROJECT_DIR$/Tasks/Task_018_Vowels&amp;Consonant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Task_019_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/Lab117_OOps_Class.py" afterDir="false" />
+    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="11th Nov 2025 OOPs &amp; Tasks">
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_020_TrianglePrinting_User_Def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/01_Class_Object/Lab118_Class_Dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/01_Class_Object/Lab119_Class_Dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/02_Constructor/Lab119_Class_Dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/02_Constructor/Lab119_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/02_Constructor/Lab120_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/02_Constructor/Lab121_User_Input_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/02_Constructor/Lab122_Calc_Non_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/02_Constructor/Lab123_Calc_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/03_Instance_Variables/Lab124_OOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/03_Instance_Variables/Lab125_OOps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPs_Python/Lab117_OOps_Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/01_Class_Object/Lab117_OOps_Class.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,6 +177,7 @@
     "Python.Task_017_Triangle_Pattern.executor": "Run",
     "Python.Task_018_Vowels&Consonant.executor": "Run",
     "Python.Task_019_Palindrome.executor": "Run",
+    "Python.Task_020_TrianglePrinting_User_Def.executor": "Run",
     "Python.p_Pass_Function.executor": "Run",
     "Python.try.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -174,27 +185,27 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/PROJECT_TREADSTONE/PyATB6xLearning/src/ex_17_Dict",
+    "last_opened_file_path": "D:/PROJECT_TREADSTONE/PyATB6xLearning/src/ex_18_OOPs_Python/02_Constructor",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_18_OOPs_Python\02_Constructor" />
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_18_OOPs_Python" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_17_Dict" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_09_Functions_Scopes" />
-      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_08_Functions" />
-      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_06_Switch_Match" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_18_OOPs_Python\01_Class_Object" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_08_Functions" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_07_Loops\For" />
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning" />
-      <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_019_Palindrome">
+  <component name="RunManager" selected="Python.Task_020_TrianglePrinting_User_Def">
     <configuration name="Lab002_Comment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -275,28 +286,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_print.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab104_SET_P3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_15_Sets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_15_Sets/Lab104_SET_P3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,13 +382,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task_020_TrianglePrinting_User_Def" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/Task_020_TrianglePrinting_User_Def.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task_020_TrianglePrinting_User_Def" />
         <item itemvalue="Python.Task_019_Palindrome" />
         <item itemvalue="Python.Task_018_Vowels&amp;Consonant" />
         <item itemvalue="Python.Task_017_Triangle_Pattern" />
         <item itemvalue="Python.Lab105_IQ" />
-        <item itemvalue="Python.Lab104_SET_P3" />
       </list>
     </recent_temporary>
   </component>
@@ -546,7 +557,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762827014396</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="11th Nov 2025 OOPs &amp; Tasks">
+      <option name="closed" value="true" />
+      <created>1762829630616</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1762829630616</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -573,7 +592,8 @@
     <MESSAGE value="6th Nov 2025" />
     <MESSAGE value="8th Nov 2025" />
     <MESSAGE value="11th Nov 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="11th Nov 2025" />
+    <MESSAGE value="11th Nov 2025 OOPs &amp; Tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="11th Nov 2025 OOPs &amp; Tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
