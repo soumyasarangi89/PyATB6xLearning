@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="13th Nov 2025 OOPs &amp; Tasks">
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/04_Encapsulation/Lab127_Encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/04_Encapsulation/Lab128_Ecaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/04_Encapsulation/Lab129_Ecaps_ENV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/04_Encapsulation/Lab130_Ecap_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/04_Encapsulation/Lab131_Ecap_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/04_Encapsulation/Lab132_Ecap_Personal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/04_Encapsulation/Lab_Public_Private_Protected.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Python/05_Inheritance/Lab133_Inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fba727b2-5819-47b0-b693-37d4acc6388d" name="Changes" comment="18th Nov 2025 OOPs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +191,7 @@
       <recent name="D:\PROJECT_TREADSTONE\PyATB6xLearning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_020_TrianglePrinting_User_Def">
+  <component name="RunManager" selected="Python.Task_021_encapsulation+inheritance">
     <configuration name="Lab002_Comment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -282,28 +272,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_print.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab105_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_15_Sets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_15_Sets/Lab105_IQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,13 +368,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task_021_encapsulation+inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasks/Task_021_encapsulation+inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task_021_encapsulation+inheritance" />
         <item itemvalue="Python.Task_020_TrianglePrinting_User_Def" />
         <item itemvalue="Python.Task_019_Palindrome" />
         <item itemvalue="Python.Task_018_Vowels&amp;Consonant" />
         <item itemvalue="Python.Task_017_Triangle_Pattern" />
-        <item itemvalue="Python.Lab105_IQ" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +559,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763002623836</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="18th Nov 2025 OOPs">
+      <option name="closed" value="true" />
+      <created>1763436674908</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1763436674908</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -598,7 +596,8 @@
     <MESSAGE value="11th Nov 2025" />
     <MESSAGE value="11th Nov 2025 OOPs &amp; Tasks" />
     <MESSAGE value="13th Nov 2025 OOPs &amp; Tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="13th Nov 2025 OOPs &amp; Tasks" />
+    <MESSAGE value="18th Nov 2025 OOPs" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th Nov 2025 OOPs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
